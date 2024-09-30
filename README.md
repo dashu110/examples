@@ -1,6 +1,5 @@
 # Examples for [egg](https://github.com/eggjs/egg)
 ---
-
 [![build status][travis-image]][travis-url]
 [![node version][node-image]][node-url]
 [![egg version][egg-image]][egg-url]
